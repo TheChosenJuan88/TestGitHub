@@ -1,2 +1,2 @@
 # TestGitHub
-Github tutorial
+GEt hub is aaesewesome functions and stuff
